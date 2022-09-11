@@ -5,8 +5,9 @@
   ⚡️ Torneos de coches basados en votos ⚡️
 <br />
 </div>
-
+<div align="center">
 ![Deploy](https://github.com/carsTournaments/backend/actions/workflows/deploy.yml/badge.svg) ![CI](https://github.com/carsTournaments/backend/actions/workflows/ci.yml/badge.svg) ![CI](https://github.com/carsTournaments/admin/actions/workflows/ci.yml/badge.svg)
+</div>
 
 ## ¿Que es CarsTournaments?
 
@@ -15,6 +16,7 @@ Es una aplicacion en la que podrás participar en torneos de coches. Esos torneo
 ## ¿Que usamos?
 
 En CarsTournaments estoy usando diferentes tecnologias.
+
 - Backend: NodeJS, Express, MongoDB
 - App: Ionic 6, Angular 14, Capacitor 4
 - Admin: Angular 13
