@@ -6,8 +6,10 @@
 
   ⚡️ Torneos de coches basados en votos ⚡️
 
-![Deploy](https://github.com/carsTournaments/backend/actions/workflows/deploy.yml/badge.svg) 
+![Deploy](https://github.com/carsTournaments/backend/actions/workflows/deploy.yml/badge.svg)
+
 ![CI](https://github.com/carsTournaments/backend/actions/workflows/ci.yml/badge.svg) ![CI](https://github.com/carsTournaments/app/actions/workflows/ci.yml/badge.svg) ![CI](https://github.com/carsTournaments/admin/actions/workflows/ci.yml/badge.svg)
+
 [![codecov](https://codecov.io/gh/josexs/carsTournaments-backend/branch/feature/testing/graph/badge.svg?token=A738EDBZ4N)](https://codecov.io/gh/carsTournaments/backend) [![codecov](https://codecov.io/gh/carsTournaments/app/branch/main/graph/badge.svg?token=6C1JCQBYCJ)](https://codecov.io/gh/carsTournaments/app)
 
 </div>
