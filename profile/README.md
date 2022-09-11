@@ -4,7 +4,7 @@
 <br />
 <div align="center">
 
-  ⚡️ Torneos de coches basados en votos ⚡️
+⚡️ Torneos de coches basados en votos ⚡️
 
 ![Deploy](https://github.com/carsTournaments/backend/actions/workflows/deploy.yml/badge.svg)
 
@@ -12,6 +12,15 @@
 
 [![codecov](https://codecov.io/gh/josexs/carsTournaments-backend/branch/feature/testing/graph/badge.svg?token=A738EDBZ4N)](https://codecov.io/gh/carsTournaments/backend) [![codecov](https://codecov.io/gh/carsTournaments/app/branch/main/graph/badge.svg?token=6C1JCQBYCJ)](https://codecov.io/gh/carsTournaments/app)
 
+<a href="https://github.com/carsTournaments/backend" target="_blank">
+    <img src="./icon-backend-readme.png" width="170">
+</a>
+<a href="https://github.com/carsTournaments/app" target="_blank">
+    <img src="./icon-app-readme.png" width="170">
+</a>
+<a href="https://github.com/carsTournaments/admin" target="_blank">
+    <img src="./icon-admin-readme.png" width="170">
+</a>
 </div>
 
 ## ¿Que es CarsTournaments?
