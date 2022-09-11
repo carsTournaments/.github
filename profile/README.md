@@ -1,11 +1,10 @@
 <div align="center">
   <img src="./banner.png"/>
 </div>
-<div align="center">
-  ⚡️ Torneos de coches basados en votos ⚡️
 <br />
-</div>
 <div align="center">
+
+  ⚡️ Torneos de coches basados en votos ⚡️
 
 ![Deploy](https://github.com/carsTournaments/backend/actions/workflows/deploy.yml/badge.svg) ![CI](https://github.com/carsTournaments/backend/actions/workflows/ci.yml/badge.svg) ![CI](https://github.com/carsTournaments/admin/actions/workflows/ci.yml/badge.svg)
 
