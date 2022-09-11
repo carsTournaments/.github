@@ -6,6 +6,8 @@
 <br />
 </div>
 
+![Deploy](https://github.com/carsTournaments/backend/actions/workflows/deploy.yml/badge.svg) ![CI](https://github.com/carsTournaments/backend/actions/workflows/ci.yml/badge.svg) ![CI](https://github.com/carsTournaments/admin/actions/workflows/ci.yml/badge.svg)
+
 ## ¿Que es CarsTournaments?
 
 Es una aplicacion en la que podrás participar en torneos de coches. Esos torneos seran votados en cada ronda por los aficionados, hasta llegar al ganador de la final.
