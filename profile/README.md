@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="./icon.png" width="300"/>
+  <img src="./banner.png"/>
 
-<h3>CarsTournaments</h3>
+<h6>⚡️ Torneos de coches basados en votos ⚡️</h6>
 
 <p align="center">
-    ⚡️ Torneos de coches basados en votos ⚡️
+    
 </p>
 
 <p>
