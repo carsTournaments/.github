@@ -1,26 +1,21 @@
 <div align="center">
-  <img src="./banner.png"/>
-</div>
-<br />
-<div align="center">
+  <img src="./icon.png" width="300"/>
 
-⚡️ Torneos de coches basados en votos ⚡️
+<h3>CarsTournaments</h3>
+
+<p align="center">
+    ⚡️ Torneos de coches basados en votos ⚡️
+</p>
+
+<p>
 
 ![Deploy](https://github.com/carsTournaments/backend/actions/workflows/deploy.yml/badge.svg) [![Deploy PWA](https://github.com/carsTournaments/app/actions/workflows/firebase-hosting-merge.yml/badge.svg)](https://github.com/carsTournaments/app/actions/workflows/firebase-hosting-merge.yml)
 
 ![CI](https://github.com/carsTournaments/backend/actions/workflows/ci.yml/badge.svg) ![CI](https://github.com/carsTournaments/app/actions/workflows/ci.yml/badge.svg) ![CI](https://github.com/carsTournaments/admin/actions/workflows/ci.yml/badge.svg)
 
 [![codecov](https://codecov.io/gh/josexs/carsTournaments-backend/branch/feature/testing/graph/badge.svg?token=A738EDBZ4N)](https://codecov.io/gh/carsTournaments/backend) [![codecov](https://codecov.io/gh/carsTournaments/app/branch/main/graph/badge.svg?token=6C1JCQBYCJ)](https://codecov.io/gh/carsTournaments/app)
+</p>
 
-<a href="https://github.com/carsTournaments/backend" target="_blank">
-    <img src="./icon-backend-readme.png" width="200">
-</a>
-<a href="https://github.com/carsTournaments/app" target="_blank">
-    <img src="./icon-app-readme.png" width="200">
-</a>
-<a href="https://github.com/carsTournaments/admin" target="_blank">
-    <img src="./icon-admin-readme.png" width="200">
-</a>
 </div>
 
 ## ¿Que es CarsTournaments?
