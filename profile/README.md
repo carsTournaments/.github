@@ -9,9 +9,9 @@
 
 <p>
 
-![Deploy](https://github.com/carsTournaments/backend/actions/workflows/deploy.yml/badge.svg) [![Deploy PWA](https://github.com/carsTournaments/app/actions/workflows/firebase-hosting-merge.yml/badge.svg)](https://github.com/carsTournaments/app/actions/workflows/firebase-hosting-merge.yml)
+[![Deploy](https://github.com/carsTournaments/backend/actions/workflows/deploy.yml/badge.svg)](https://github.com/carsTournaments/backend/actions/workflows/deploy.yml) [![Deploy PWA](https://github.com/carsTournaments/app/actions/workflows/firebase-hosting-merge.yml/badge.svg)](https://github.com/carsTournaments/app/actions/workflows/firebase-hosting-merge.yml)
 
-![CI](https://github.com/carsTournaments/backend/actions/workflows/ci.yml/badge.svg) ![CI](https://github.com/carsTournaments/app/actions/workflows/ci.yml/badge.svg) ![CI](https://github.com/carsTournaments/admin/actions/workflows/ci.yml/badge.svg)
+[![CI](https://github.com/carsTournaments/backend/actions/workflows/ci.yml/badge.svg)](https://github.com/carsTournaments/backend/actions/workflows/ci.yml) [![CI](https://github.com/carsTournaments/app/actions/workflows/ci.yml/badge.svg)](https://github.com/carsTournaments/app/actions/workflows/ci.yml) [![CI](https://github.com/carsTournaments/admin/actions/workflows/ci.yml/badge.svg)](https://github.com/carsTournaments/admin/actions/workflows/ci.yml)
 
 [![codecov](https://codecov.io/gh/josexs/carsTournaments-backend/branch/feature/testing/graph/badge.svg?token=A738EDBZ4N)](https://codecov.io/gh/carsTournaments/backend) [![codecov](https://codecov.io/gh/carsTournaments/app/branch/main/graph/badge.svg?token=6C1JCQBYCJ)](https://codecov.io/gh/carsTournaments/app)
 </p>
@@ -26,9 +26,9 @@ Es una aplicacion en la que podrás participar en torneos de coches. Esos torneo
 
 En CarsTournaments estoy usando diferentes tecnologias.
 
-- Backend: NodeJS, Express, MongoDB
-- App: Ionic 6, Angular 14, Capacitor 4
-- Admin: Angular 13
+- **Backend**: `NodeJS` `Express` `MongoDB`
+- **App**: `Ionic 6` `Angular 14` `Capacitor 4`
+- **Admin**: `Angular 13` `Angular Material`
 
 ## Observaciones
 
