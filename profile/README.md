@@ -26,11 +26,11 @@ Es una aplicacion en la que podrás participar en torneos de coches. Esos torneo
 
 ## ¿Que usamos?
 
-![Backend](https://img.shields.io/badge/-BACKEND-black) ![Express](https://img.shields.io/badge/-Express-lightgrey) ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
+![Backend](https://img.shields.io/badge/CT-Backend-black) ![Express](https://img.shields.io/badge/-Express-lightgrey) ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
 
-![APP](https://img.shields.io/badge/-APP-black) ![Ionic 6](https://img.shields.io/badge/-Ionic_6-blue) ![Angular 14](https://img.shields.io/badge/-Anguar_14-red) ![Capacitor 4](https://img.shields.io/badge/-Capacitor_4-informational)
+![App](https://img.shields.io/badge/CT-App-black) ![Ionic 6](https://img.shields.io/badge/-Ionic_6-blue) ![Angular 14](https://img.shields.io/badge/-Anguar_14-red) ![Capacitor 4](https://img.shields.io/badge/-Capacitor_4-informational)
 
-![ADMIN](https://img.shields.io/badge/-ADMIN-black) ![Angular 14](https://img.shields.io/badge/-Anguar_14-red) ![Angular Material](https://img.shields.io/badge/-Anguar_Material-red) 
+![Admin](https://img.shields.io/badge/CT-Admin-black) ![Angular 14](https://img.shields.io/badge/-Anguar_14-red) ![Angular Material](https://img.shields.io/badge/-Anguar_Material-red) 
 
 ## Observaciones
 
