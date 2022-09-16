@@ -1,5 +1,6 @@
 <div align="center">
   <a href="http://www.carstournaments.com"><img src="./banner.png"/></a>
+<p></p>
 
 [![Deploy](https://github.com/carsTournaments/backend/actions/workflows/deploy.yml/badge.svg)](https://github.com/carsTournaments/backend/actions/workflows/deploy.yml) [![Deploy PWA](https://github.com/carsTournaments/app/actions/workflows/firebase-hosting-merge.yml/badge.svg)](https://github.com/carsTournaments/app/actions/workflows/firebase-hosting-merge.yml)
 
@@ -10,8 +11,6 @@
 ![100% Typescript](https://img.shields.io/badge/100%25-Typescript-blue) [![Documentacion](https://img.shields.io/badge/WIP-Documentation-black)](https://docs.carstournaments.com)
 
 </p>
-
-</div>
 
 ## ¿Que es esto?
 
