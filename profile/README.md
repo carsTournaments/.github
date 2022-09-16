@@ -1,13 +1,5 @@
-<div align="center">
   <a href="http://www.carstournaments.com"><img src="./banner.png"/></a>
 
-<h6>⚡️ Torneos de coches basados en votos ⚡️</h6>
-
-<p align="center">
-    
-</p>
-
-<p>
 
 [![Deploy](https://github.com/carsTournaments/backend/actions/workflows/deploy.yml/badge.svg)](https://github.com/carsTournaments/backend/actions/workflows/deploy.yml) [![Deploy PWA](https://github.com/carsTournaments/app/actions/workflows/firebase-hosting-merge.yml/badge.svg)](https://github.com/carsTournaments/app/actions/workflows/firebase-hosting-merge.yml)
 
@@ -34,4 +26,4 @@ Es una aplicacion en la que podrás participar en torneos de coches. Esos torneo
 
 ## Observaciones
 
-CarsTournaments se encuentra en fase alpha, con lo que tendra algunos errores. Si encuentras alguno y quieres contribuir, estaremos agradecidos de recibir las correcciones.
+CarsTournaments se encuentra en fase alpha, con lo que tendra algunos errores. Si encuentras alguno y quieres contribuir, estaremos agradecidos de recibir las correcciones. Para mas informacion, puedes ver la documentacion.
