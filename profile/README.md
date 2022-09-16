@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png"/>
+  <a href="http://www.carstournaments.com"><img src="./banner.png"/></a>
 
 <h6>⚡️ Torneos de coches basados en votos ⚡️</h6>
 
@@ -14,6 +14,8 @@
 [![CI](https://github.com/carsTournaments/backend/actions/workflows/ci.yml/badge.svg)](https://github.com/carsTournaments/backend/actions/workflows/ci.yml) [![CI](https://github.com/carsTournaments/app/actions/workflows/ci.yml/badge.svg)](https://github.com/carsTournaments/app/actions/workflows/ci.yml) [![CI](https://github.com/carsTournaments/admin/actions/workflows/ci.yml/badge.svg)](https://github.com/carsTournaments/admin/actions/workflows/ci.yml)
 
 [![codecov](https://codecov.io/gh/josexs/carsTournaments-backend/branch/feature/testing/graph/badge.svg?token=A738EDBZ4N)](https://codecov.io/gh/carsTournaments/backend) [![codecov](https://codecov.io/gh/carsTournaments/app/branch/main/graph/badge.svg?token=6C1JCQBYCJ)](https://codecov.io/gh/carsTournaments/app)
+
+![100% Typescript](https://img.shields.io/badge/100%25-Typescript-blue) [![Documentacion](https://img.shields.io/badge/WIP-Documentation-black)](https://docs.carstournaments.com)
 </p>
 
 </div>
@@ -24,11 +26,9 @@ Es una aplicacion en la que podrás participar en torneos de coches. Esos torneo
 
 ## ¿Que usamos?
 
-En CarsTournaments estoy usando diferentes tecnologias.
-
-- **Backend**: `NodeJS` `Express` `MongoDB`
-- **App**: `Ionic 6` `Angular 14` `Capacitor 4`
-- **Admin**: `Angular 13` `Angular Material`
+![Backend](https://img.shields.io/badge/-BACKEND-black) ![Express](https://img.shields.io/badge/-Express-lightgrey) ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
+![APP](https://img.shields.io/badge/-APP-black) ![Ionic 6](https://img.shields.io/badge/-Ionic_6-blue) ![Angular 14](https://img.shields.io/badge/-Anguar_14-red) ![Capacitor 4](https://img.shields.io/badge/-Capacitor_4-informational)
+![ADMIN](https://img.shields.io/badge/-ADMIN-black) ![Angular 14](https://img.shields.io/badge/-Anguar_14-red) ![Angular Material](https://img.shields.io/badge/-Anguar_Material-red) 
 
 ## Observaciones
 
