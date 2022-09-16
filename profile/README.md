@@ -1,3 +1,4 @@
+<center>
   <a href="http://www.carstournaments.com"><img src="./banner.png"/></a>
 
 
@@ -12,9 +13,9 @@
 
 </div>
 
-## ¿Que es CarsTournaments?
+## ¿Que es esto?
 
-Es una aplicacion en la que podrás participar en torneos de coches. Esos torneos seran votados en cada ronda por los aficionados, hasta llegar al ganador de la final.
+CarsTournaments es una aplicacion en la que podrás participar en torneos de coches (ficticios). Esos torneos seran votados en cada ronda por los aficionados, hasta llegar al ganador de la final.
 
 ## ¿Que usamos?
 
@@ -27,3 +28,4 @@ Es una aplicacion en la que podrás participar en torneos de coches. Esos torneo
 ## Observaciones
 
 CarsTournaments se encuentra en fase alpha, con lo que tendra algunos errores. Si encuentras alguno y quieres contribuir, estaremos agradecidos de recibir las correcciones. Para mas informacion, puedes ver la documentacion.
+</center>
