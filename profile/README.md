@@ -10,6 +10,12 @@
 
 ![100% Typescript](https://img.shields.io/badge/100%25-Typescript-blue) [![Documentacion](https://img.shields.io/badge/WIP-Documentation-black)](https://docs.carstournaments.com)
 
+![GitHub enhancements](https://img.shields.io/github/issues/carstournaments/backend/enhancement?label=Backend%20Enhancements&style=plastic) ![GitHub bugs by-label](https://img.shields.io/github/issues/carstournaments/backend/bug?label=Backend%20Bugs&style=plastic)
+
+![GitHub enhancements](https://img.shields.io/github/issues/carstournaments/app/enhancement?label=App%20Enhancements&style=plastic) ![GitHub bugs by-label](https://img.shields.io/github/issues/carstournaments/app/bug?label=App%20Bugs&style=plastic)
+
+![GitHub enhancements](https://img.shields.io/github/issues/carstournaments/admin/enhancement?label=Admin%20Enhancements&style=plastic) ![GitHub bugs by-label](https://img.shields.io/github/issues/carstournaments/admin/bug?label=Admin%20Bugs&style=plastic)
+
 </p>
 
 ## ¿Que es esto?
