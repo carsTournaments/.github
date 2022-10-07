@@ -2,7 +2,11 @@
   <a href="http://www.carstournaments.com"><img src="./banner.png"/></a>
 <p></p>
 
-[![Deploy](https://github.com/carsTournaments/backend/actions/workflows/deploy.yml/badge.svg)](https://github.com/carsTournaments/backend/actions/workflows/deploy.yml) [![Deploy PWA](https://github.com/carsTournaments/app/actions/workflows/firebase-hosting-merge.yml/badge.svg)](https://github.com/carsTournaments/app/actions/workflows/firebase-hosting-merge.yml)
+[![Deploy](https://github.com/carsTournaments/backend/actions/workflows/deploy.yml/badge.svg)](https://github.com/carsTournaments/backend/actions/workflows/deploy.yml) [![CI](https://github.com/carsTournaments/backend/actions/workflows/ci.yml/badge.svg)](https://github.com/carsTournaments/backend/actions/workflows/ci.yml)
+
+![CI](https://github.com/carsTournaments/admin/actions/workflows/ci.yml/badge.svg) ![Upload](https://github.com/carsTournaments/admin/actions/workflows/upload-firebase.yml/badge.svg)
+
+[![App PWA Deploy](https://github.com/carsTournaments/app/actions/workflows/upload-firebase.yml/badge.svg)](https://github.com/carsTournaments/app/actions/workflows/firebase-hosting-merge.yml) [![Upload Google Play](https://github.com/carsTournaments/app/actions/workflows/upload-google-play.yml/badge.svg)](https://github.com/carsTournaments/app/actions/workflows/upload-google-play.yml) [![App CI](https://github.com/carsTournaments/app/actions/workflows/ci.yml/badge.svg)](https://github.com/carsTournaments/app/actions/workflows/ci.yml)
 
 [![CI](https://github.com/carsTournaments/backend/actions/workflows/ci.yml/badge.svg)](https://github.com/carsTournaments/backend/actions/workflows/ci.yml) [![CI](https://github.com/carsTournaments/app/actions/workflows/ci.yml/badge.svg)](https://github.com/carsTournaments/app/actions/workflows/ci.yml) [![CI](https://github.com/carsTournaments/admin/actions/workflows/ci.yml/badge.svg)](https://github.com/carsTournaments/admin/actions/workflows/ci.yml)
 
